@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/Downloads/spring-security/spring-security" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../springLearnings/springLearnings/pom.xml" />
+        <option value="$PROJECT_DIR$/../03-jpa-getting-started/pom.xml" />
+        <option value="$USER_HOME$/Downloads/sample-web-app/sample-web-app/pom.xml" />
+        <option value="$USER_HOME$/Downloads/toDoListApp-master/toDoListApp-master/toDo/pom.xml" />
+        <option value="$USER_HOME$/Downloads/crud_exercise/crud_exercise-master/crud/pom.xml" />
+        <option value="$USER_HOME$/Downloads/master-spring-and-spring-boot-main/master-spring-and-spring-boot-main/13-full-stack/02-rest-api/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" project-jdk-name="24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
